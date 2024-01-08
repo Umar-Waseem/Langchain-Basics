@@ -2,7 +2,7 @@
 
 ### What is Langchain?
 
-LangChain is a framework designed to simplify the creation of applications using large language models.
+LangChain is a framework designed to simplify the creation of applications using large language models. It gives you different prompting templates, output parsers to get desired outputs and much more.
 
 ### Get Started
 

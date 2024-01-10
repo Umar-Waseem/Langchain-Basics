@@ -1,4 +1,4 @@
-# Langchain Basics
+# Langchain Fundamentals
 
 ### What is Langchain?
 
